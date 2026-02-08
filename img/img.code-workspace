@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "img",
+			"path": "../../Desktop/img"
+		},
+		{
+			"name": "ChatBot",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
